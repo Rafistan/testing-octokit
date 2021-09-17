@@ -1,0 +1,57 @@
+@import 'themes/base';
+@import 'themes/stroeer';
+@import 'themes/astral';
+@import 'themes/outfront';
+@import 'themes/liveboard';
+@import 'themes/zoom';
+@import 'themes/mediacom';
+@import 'themes/novus';
+@import 'themes/kinetic';
+@import 'themes/asiaray';
+@import 'themes/captivate';
+@import 'themes/xaxis';
+@import 'themes/posterscope';
+@import 'themes/mindshare';
+@import 'themes/wavemaker';
+@import 'themes/omg';
+@import 'themes/medialab';
+@import 'themes/talon';
+@import 'themes/buntin';
+@import 'themes/clearchannel';
+@import 'themes/olg';
+@import 'themes/tradeooh';
+@import 'themes/vision7';
+@import 'themes/oohlabs';
+@import 'themes/doordash';
+@import 'themes/cineplex';
+@import 'themes/vmo';
+
+$themes: (
+  base: $base-theme,
+  s: $stroeer-theme,
+  a: $astral-theme,
+  o: $outfront-theme,
+  l: $liveboard-theme,
+  z: $zoom-theme,
+  m: $mediacom-theme,
+  n: $novus-theme,
+  k: $kinetic-theme,
+  y: $asiaray-theme,
+  c: $captivate-theme,
+  x: $xaxis-theme,
+  p: $posterscope-theme,
+  ms: $mindshare-theme,
+  w: $wavemaker-theme,
+  omg: $omg-theme,
+  ml: $medialab-theme,
+  ta: $talon-theme,
+  bt: $buntin-theme,
+  cc: $clearchannel-theme,
+  olg: $olg-theme,
+  to: $tradeooh-theme,
+  v7: $vision7-theme,
+  ol: $oohlabs-theme,
+  dd: $doordash-theme,
+  cx: $cineplex-theme,
+  val: $vmo-theme
+);
