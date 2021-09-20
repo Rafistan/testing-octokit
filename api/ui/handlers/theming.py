@@ -346,6 +346,19 @@ async def get_theme_info(request, **kwargs):
             'loader_url': '/assets/images/loaders/vmo-loader.svg',
             'affiliation': True,
         },
+        ('rto1',): {
+                            'theme': 'theme-rto1',
+                            'favicon_folder': 'rafitestorg1-favicons',
+                            'header_logo': '/assets/images/rafitestorg1-logo-light.svg',
+                            'company_logo': {
+                                'logo': '/assets/images/rafitestorg1-logo-dark.svg',
+                                'name': 'rafitestorg1',
+                                'imageType': 'svg',
+                            },
+                            'subdomain': 'rafitestorg1',
+                            'loader_url': '/assets/images/loaders/rafitestorg1-loader.svg',
+                            'affiliation': True,
+                        },
     }
 
     referer = URL(request.headers.get('Referer', ''))
