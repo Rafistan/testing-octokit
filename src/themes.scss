@@ -1,59 +1,59 @@
-@import 'themes/base';
-@import 'themes/stroeer';
-@import 'themes/astral';
-@import 'themes/outfront';
-@import 'themes/liveboard';
-@import 'themes/zoom';
-@import 'themes/mediacom';
-@import 'themes/novus';
-@import 'themes/kinetic';
-@import 'themes/asiaray';
-@import 'themes/captivate';
-@import 'themes/xaxis';
-@import 'themes/posterscope';
-@import 'themes/mindshare';
-@import 'themes/wavemaker';
-@import 'themes/omg';
-@import 'themes/medialab';
-@import 'themes/talon';
-@import 'themes/buntin';
-@import 'themes/clearchannel';
-@import 'themes/olg';
-@import 'themes/tradeooh';
-@import 'themes/vision7';
-@import 'themes/oohlabs';
-@import 'themes/doordash';
-@import 'themes/cineplex';
-@import 'themes/vmo';
-@import 'themes/rafitestorg1';
+@IMPORT 'THEMES/BASE';
+@IMPORT 'THEMES/STROEER';
+@IMPORT 'THEMES/ASTRAL';
+@IMPORT 'THEMES/OUTFRONT';
+@IMPORT 'THEMES/LIVEBOARD';
+@IMPORT 'THEMES/ZOOM';
+@IMPORT 'THEMES/MEDIACOM';
+@IMPORT 'THEMES/NOVUS';
+@IMPORT 'THEMES/KINETIC';
+@IMPORT 'THEMES/ASIARAY';
+@IMPORT 'THEMES/CAPTIVATE';
+@IMPORT 'THEMES/XAXIS';
+@IMPORT 'THEMES/POSTERSCOPE';
+@IMPORT 'THEMES/MINDSHARE';
+@IMPORT 'THEMES/WAVEMAKER';
+@IMPORT 'THEMES/OMG';
+@IMPORT 'THEMES/MEDIALAB';
+@IMPORT 'THEMES/TALON';
+@IMPORT 'THEMES/BUNTIN';
+@IMPORT 'THEMES/CLEARCHANNEL';
+@IMPORT 'THEMES/OLG';
+@IMPORT 'THEMES/TRADEOOH';
+@IMPORT 'THEMES/VISION7';
+@IMPORT 'THEMES/OOHLABS';
+@IMPORT 'THEMES/DOORDASH';
+@IMPORT 'THEMES/CINEPLEX';
+@IMPORT 'THEMES/VMO';
+@IMPORT 'THEMES/RAFITESTORG1';
 
-$themes: (
-  base: $base-theme,
-  s: $stroeer-theme,
-  a: $astral-theme,
-  o: $outfront-theme,
-  l: $liveboard-theme,
-  z: $zoom-theme,
-  m: $mediacom-theme,
-  n: $novus-theme,
-  k: $kinetic-theme,
-  y: $asiaray-theme,
-  c: $captivate-theme,
-  x: $xaxis-theme,
-  p: $posterscope-theme,
-  ms: $mindshare-theme,
-  w: $wavemaker-theme,
-  omg: $omg-theme,
-  ml: $medialab-theme,
-  ta: $talon-theme,
-  bt: $buntin-theme,
-  cc: $clearchannel-theme,
-  olg: $olg-theme,
-  to: $tradeooh-theme,
-  v7: $vision7-theme,
-  ol: $oohlabs-theme,
-  dd: $doordash-theme,
-  cx: $cineplex-theme,
-  val: $vmo-theme,,
-  rto1: $rafitestorg1-theme
+$THEMES: (
+  BASE: $BASE-THEME,
+  S: $STROEER-THEME,
+  A: $ASTRAL-THEME,
+  O: $OUTFRONT-THEME,
+  L: $LIVEBOARD-THEME,
+  Z: $ZOOM-THEME,
+  M: $MEDIACOM-THEME,
+  N: $NOVUS-THEME,
+  K: $KINETIC-THEME,
+  Y: $ASIARAY-THEME,
+  C: $CAPTIVATE-THEME,
+  X: $XAXIS-THEME,
+  P: $POSTERSCOPE-THEME,
+  MS: $MINDSHARE-THEME,
+  W: $WAVEMAKER-THEME,
+  OMG: $OMG-THEME,
+  ML: $MEDIALAB-THEME,
+  TA: $TALON-THEME,
+  BT: $BUNTIN-THEME,
+  CC: $CLEARCHANNEL-THEME,
+  OLG: $OLG-THEME,
+  TO: $TRADEOOH-THEME,
+  V7: $VISION7-THEME,
+  OL: $OOHLABS-THEME,
+  DD: $DOORDASH-THEME,
+  CX: $CINEPLEX-THEME,
+  VAL: $VMO-THEME,,
+  RTO1: $RAFITESTORG1-THEME
 );
