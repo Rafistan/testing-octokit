@@ -359,6 +359,19 @@ async def get_theme_info(request, **kwargs):
             'loader_url': '/assets/images/loaders/rafitestorg1-loader.svg',
             'affiliation': True,
         },
+        ('rto1',): {
+            'theme': 'theme-rto1',
+            'favicon_folder': 'rafitestorg1-favicons',
+            'header_logo': 'url1',
+            'company_logo': {
+                'logo': 'url2',
+                'name': 'rafitestorg1',
+                'imageType': 'svg',
+            },
+            'subdomain': 'rafitestorg1',
+            'loader_url': 'url3',
+            'affiliation': True,
+        },
     }
 
     referer = URL(request.headers.get('Referer', ''))
