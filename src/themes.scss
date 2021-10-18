@@ -25,6 +25,7 @@
 @import 'themes/doordash';
 @import 'themes/cineplex';
 @import 'themes/vmo';
+@import 'themes/rafitestorg1';
 
 $themes: (
   base: $base-theme,
@@ -53,5 +54,6 @@ $themes: (
   ol: $oohlabs-theme,
   dd: $doordash-theme,
   cx: $cineplex-theme,
-  val: $vmo-theme
+  val: $vmo-theme,
+  rto1: $rafitestorg1-theme
 );
