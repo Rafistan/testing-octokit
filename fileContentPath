@@ -1,0 +1,65 @@
+$rafitestorg1-theme: (
+  primaryColor: #ff0083,
+  primaryColorReverse: #ffffff,
+
+  background: #f3f2f2,
+
+  secondaryColor: #0f78ff,
+  secondaryColorLight: #1184ff,
+  secondaryColorExtraLight: #15a8ff,
+  secondaryColorDark: #0e6ce6,
+  secondaryColorReverse: #ffffff,
+
+  iconColor: #0f78ff,
+  iconColorExtraLight: #17b4ff,
+  iconColorLight: #14a0ff,
+
+  textColor: #000000,
+  textColorDark: #000000,
+  textMutedColor: #000000,
+  textMutedColorExtraLight: #444444,
+
+  darkBgColor: #3f3f3f,
+  navbarBgColor: #3f3f3f,
+  navbarFgColor: #ffffff,
+
+  actionsColor: #ff0083,
+  actionsColorLight: #ff0090,
+  actionsColorExtraLight: #ff00b7,
+  actionsColorReverse: #ffffff,
+
+  panesShadow: #cc0069,
+  panesShadowReverse: #cc0069,
+  paneHeaderBackgroundColor: #f9f9f9,
+
+  linkFontWeight: normal,
+  buttonFontWeight: 600,
+  buttonTextTransform: uppercase,
+  defaultButtonColor: #ff0083,
+  defaultButtonBorderColor: #bababa,
+  defaultButtonColorLight: #999999,
+  defaultButtonColorReverse: #ffffff,
+
+  headerBackgroundColor: #ff0083,
+  headerForegroundColor: #ffffff,
+
+  tableHeaderBackgroundColor: #EAEAEA,
+  tableHeaderForeroundColor: #464646,
+
+  breadcrumbsForegroundColor: #ffffff,
+  breadcrumbsBackgroundColor: #5f5f5f,
+
+  info: #0f78ff,
+  infoReverse: #ffffff,
+  success: #00e074,
+  successReverse: #ffffff,
+  error: #ff0083,
+  errorReverse: #ffffff,
+  warning: #FFDF02,
+  warningReverse: #8b7802,
+
+  mainContentBackgroundColor: #ffffff,
+  mainContentForegroundColor: #333333,
+
+  geofencesColor: #ff0083,
+)
