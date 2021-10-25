@@ -242,6 +242,7 @@ module "environment-staging" {
     "overwatch" = aws_ecr_repository.overwatch.repository_url
     "datadog-agent" = aws_ecr_repository.datadog_agent.repository_url
   }
+"undefined"
   additional_public_dns_records = toset([
     "staging-admin",
     "staging-astral",
